@@ -22,7 +22,7 @@ screenshot - 2
 4. python3 Age.py
 
 screenshot - 3
-<img src="SS/P1.PNG" width="450"><br>
+<img src="SS/P1.png" width="450"><br>
 
 Social Links :
 
